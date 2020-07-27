@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maxFluxDescription">
+        WIP
+    </string>
+
+    <string name="movementDescription">
+        WIP
+    </string>
+
+    <string name="strengthDescription">
+        WIP
+    </string>
+
+    <string name="strTouchDescription">
+        WIP
+    </string>
+
+    <string name="constitutionDescription">
+        WIP
+    </string>
+
+    <string name="athleticsDescription">
+        WIP
+    </string>
+
+    <string name="intimidationDescription">
+        WIP
+    </string>
+
+    <string name="survivalDescription">
+        WIP
+    </string>
+
+    <string name="agilityDescription">
+        WIP
+    </string>
+
+    <string name="agiTouchDescription">
+        WIP
+    </string>
+
+    <string name="dodgeDescription">
+        WIP
+    </string>
+
+    <string name="acrobaticsDescription">
+        WIP
+    </string>
+
+    <string name="misdemeanorDescription">
+        WIP
+    </string>
+
+    <string name="initiativeDescription">
+        WIP
+    </string>
+
+    <string name="intelligenceDescription">
+        WIP
+    </string>
+
+    <string name="powerDescription">
+        WIP
+    </string>
+
+    <string name="knowledgeDescription">
+        WIP
+    </string>
+
+    <string name="diplomacyDescription">
+        WIP
+    </string>
+
+    <string name="craftDescription">
+        WIP
+    </string>
+
+    <string name="willingnessDescription">
+        WIP
+    </string>
+
+    <string name="resilienceDescription">
+        WIP
+    </string>
+
+    <string name="psychologyDescription">
+        WIP
+    </string>
+
+    <string name="perceptionDescription">
+        WIP
+    </string>
+
+    <string name="bluffDescription">
+        WIP
+    </string>
+</resources>

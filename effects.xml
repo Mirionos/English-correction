@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="turn">turn(s)</string>
+    <string name="minute">minute(s)</string>
+    <string name="hour">hour(s)</string>
+    <string name="day">day(s)</string>
+
+    <string name="target">Target(s)</string>
+    <string name="mLine">m line</string>
+    <string name="mRadiusSphere">m radius sphere</string>
+    <string name="mSideCube">m side cube</string>
+    <string name="mLongCone">m long cone</string>
+
+    <string name="self">self</string>
+
+    <string name="effect">Effect</string>
+    <string name="duration">Duration</string>
+    <string name="zone">Zone</string>
+    <string name="range">Range</string>
+
+    <string name="contact">1.5m</string>
+    <string name="allonge">3m</string>
+    <string name="shortRange">9m</string>
+    <string name="mediumRange">30m</string>
+    <string name="longRange">100m</string>
+
+</resources>

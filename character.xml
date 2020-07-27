@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="strength">Strength</string>
+    <string name="strTouch">Str touch</string>
+    <string name="constitution">Constitution</string>
+    <string name="athletics">Athletics</string>
+    <string name="intimidation">Intimidation</string>
+    <string name="survival">Survival</string>
+    <string name="agility">Agility</string>
+    <string name="agiTouch">Agi touch</string>
+    <string name="dodge">Dodge</string>
+    <string name="acrobatics">Acrobatics</string>
+    <string name="misdemeanor">Misdemeanor</string>
+    <string name="initiative">Initiative</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="power">Power</string>
+    <string name="knowledge">Knowledge</string>
+    <string name="diplomacy">Diplomacy</string>
+    <string name="craft">Craft</string>
+    <string name="willingness">Willingness</string>
+    <string name="resilience">Resilience</string>
+    <string name="psychology">Psychology</string>
+    <string name="perception">Perception</string>
+    <string name="bluff">Bluff</string>
+
+    <string name="name">Name</string>
+    <string name="race">Race</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="size">Size</string>
+    <string name="eyes">Eyes</string>
+    <string name="weight">Weight</string>
+    <string name="hair">Hair</string>
+    <string name="skin">Skin</string>
+    <string name="face">Face</string>
+    <string name="style">Style</string>
+
+    <string name="background">Background</string>
+    <string name="notes">Notes</string>
+
+    <string name="copper">Copper</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="platinium">Platinium</string>
+
+    <string name="copy_character">Copy character</string>
+    <string name="copy">Copy</string>
+</resources>
