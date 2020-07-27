@@ -4,29 +4,31 @@
     <string-array name="rules_array">
 
         <item>
-            %title Attacks of opportunity !%
-            If a creature leaves another creature controlled area (this area is defined by the range
-            of the creature weapon.s) or loss its focus on the latter, this one can do an attack of
-            opportunity on the former. This
-            attack do not use any AP but need to spend flux. The flux cost of the first attack is 50
-            and doubles (100, 200, 400, etc) for every new attack of opportunity before the start of the attacker turn.
+            %title Zone of Control!%
+            All squares within a fighter's melee weapon range.
+        </item>
+        
+        <item>
+            %title Attack of Opportunity!%
+            If B leaves A's Zone of Control or loses their focus on A, A has the oppotunity to attack B. 
+            An Attack of Opportunity does not consume any AP, but it consumes flux instead. 
+            The flux cost of the first attack starts at 50 and doubles (100, 200, 400, etc) each new attack of opportunity before the start of the attacker turn.
         </item>
 
         <item>
-            %title Movement !%
-            For 1 AP a creature can move up to its movement value. If the creature moves through a
-            hazardous terrain, the "length" needed to cross it may increase. The creature may not have
-            this penalty inflicted, but in this case, it exposes itself to an acrobatics check in
-            order not to fall and end its turn.
+            %title Movement!%
+            For 1 AP, each fighter can move up to its movement value.
+            If a fighter moves through a hazardous terrain, the "effective distance" needed to cross it may increase. 
+            Fighters can avoid this penalty by performing an Acrobatics dice check, but exposes themselves to a fall, which end their turn.
         </item>
 
         <item>
-            %title Ranged action !%
-            A ranged action is an action with a range above the creature reach or reach of its melee weapon.\n
-            If a creature tries to do a ranged action while being in the controlled area of another creature, the latter can do an attack of opportunity on the former.\n
-            If an ranged action need a touch check to be successful and the target is in melee with another creature, the ranged action is given a disadvantage not to risk hitting the other creature.
-            The disadvantage can be removed but the ranged action can then hit the other creature (the probability of hitting the creature depends on the angle between the protagonist, the target and the creature).
-            In this case, the GM first rolls to determine the target and keeps it a secret. Then the action takes place normally but with the target updated.
+          %title Ranged action!%
+          An action with a range above a fighter's melee range.\n
+          If A attempts to perform a ranged action while within the Zone of Conrol of B, then B can perform an Attack of Opportunity on A.\n
+          A disadvantage is applied on ranged actions, with touch checks, against targets engaged in a melee fight with one (or more) fighter (e.g. allies), when trying to avoid hitting them.
+          When the disadvantage is not taken, the ranged action can hit the other fighter, with a probability that scales with the angle between the protagonist of the action, the target and the third fighter.
+          In this case, the GM rolls to determine the actual target and keeps it secret. Then, the action occurs but the actual target is hit.
         </item>
 
     </string-array>
