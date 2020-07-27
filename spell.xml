@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="defaultSpellDescription">AP : #AP#\nRange : #R1#\n</string>
+    <string name="defaultSpellDescription">AP: #AP#\nRange: #R1#\n</string>
     <string name="other">Other</string>
     <string name="expo">Exponential</string>
     <string name="linear">Linear</string>
