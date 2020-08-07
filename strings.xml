@@ -25,9 +25,9 @@
     <string name="description">Description</string>
     <string name="amount">Amount</string>
     <string name="notNumber">This is not a number.</string>
-    <string name="upValue">Would you like to increase this Value? (Cost: %1$d Exp )</string>
+    <string name="upValue">Would you like to increase this Value? (Cost: %1$d Exp)</string>
     <string name="notEnoughExp">You don\'t have enough Exp.</string>
-    <string name="downValue">Would you like to decrease this value? (Gain: %1$d Exp )</string>
+    <string name="downValue">Would you like to decrease this value? (Gain: %1$d Exp)</string>
     <string name="notDown">You can\'t decrease this value.</string>
     <string name="sprSpell">Would you like to delete this spell?</string>
     <string name="sprTalent">Would you like to delete this talent?</string>
@@ -67,7 +67,7 @@
     <string name="consumable">Consumable</string>
     <string name="type">Type</string>
     <string name="weapon2">Two-handed weapon</string>
-    <string name="alreadyEquip">This type of gear is already equipped.</string>
+    <string name="alreadyEquip">Can\'t equip. The same type of gear has already been equipped.</string>
     <string name="showBonus">Show bonus</string>
     <string name="showSpell">Show spell</string>
     <string name="misc">Misc</string>
@@ -78,7 +78,7 @@
     <string name="expCost">Exp Cost</string>
     <string name="learn">Learn</string>
     <string name="update">Update</string>
-    <string name="uncounscious">You are unconscious...</string>
+    <string name="uncounscious">You are unconscious…</string>
     <string name="mAP">%1$d m/AP</string>
     <string name="cape">Cape</string>
     <string name="belt">Belt</string>
@@ -101,7 +101,7 @@
     <string name="updateMovement">Update Movement</string>
     <string name="physicalDescription">Physical description</string>
     <string name="coins">Coins</string>
-    <string name="notEnoughMoney">Not enough pieces0</string>
+    <string name="notEnoughMoney">Not enough pieces</string>
     <string name="weapons">Weapons</string>
     <string name="equipments">Equipments</string>
     <string name="maxHP">Max HP</string>
@@ -131,7 +131,9 @@
     <string name="trackable">Trackable</string>
     <string name="activeSpells">Active spells</string>
     <string name="track">Track</string>
-    <string name="spellFinished">%1$s is finished</string>
+    <string name="spellFinished">%1$s is over</string>
     <string name="remainingTurn">%1$s turn(s)</string>
     <string name="rules">Rules</string>
+    <string name="xperturn">%1$s per turn</string>
+    <string name="xturn">%1$s turn(s)</string>
 </resources>
