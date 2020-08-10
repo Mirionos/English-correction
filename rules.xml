@@ -5,27 +5,27 @@
 
         <item>
             %title Zone of Control!%
-            All squares within a fighter's melee weapon range.
+            All squares within a fighter\'s melee weapon range.
         </item>
-        
+
         <item>
             %title Attack of Opportunity!%
-            If B leaves A's Zone of Control or loses their focus on A, A has the oppotunity to attack B. 
-            An Attack of Opportunity does not consume any AP, but it consumes flux instead. 
+            If B leaves A\'s Zone of Control or loses their focus on A, A has the opportunity to attack B.
+            An Attack of Opportunity does not consume any AP, but it consumes flux instead.
             The flux cost of the first attack starts at 50 and doubles (100, 200, 400, etc) each new attack of opportunity before the start of the attacker turn.
         </item>
 
         <item>
             %title Movement!%
             For 1 AP, each fighter can move up to its movement value.
-            If a fighter moves through a hazardous terrain, the "effective distance" needed to cross it may increase. 
+            If a fighter moves through a hazardous terrain, the "effective distance" needed to cross it may increase.
             Fighters can avoid this penalty by performing an Acrobatics dice check, but exposes themselves to a fall, which end their turn.
         </item>
 
         <item>
           %title Ranged action!%
-          An action with a range above a fighter's melee range.\n
-          If A attempts to perform a ranged action while within the Zone of Conrol of B, then B can perform an Attack of Opportunity on A.\n
+          An action with a range above a fighter\'s melee range.\n
+          If A attempts to perform a ranged action while within the Zone of Control of B, then B can perform an Attack of Opportunity on A.\n
           A disadvantage is applied on ranged actions, with touch checks, against targets engaged in a melee fight with one (or more) fighter (e.g. allies), when trying to avoid hitting them.
           When the disadvantage is not taken, the ranged action can hit the other fighter, with a probability that scales with the angle between the protagonist of the action, the target and the third fighter.
           In this case, the GM rolls to determine the actual target and keeps it secret. Then, the action occurs but the actual target is hit.

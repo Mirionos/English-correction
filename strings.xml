@@ -14,7 +14,7 @@
     <string name="new_spell">New spell</string>
     <string name="hp">HP</string>
     <string name="movement">Movement</string>
-    <string name="reset">Reset values</string>
+    <string name="resetValues">Reset values</string>
     <string name="addamountexp">Amount of Exp to add:</string>
     <string name="confirm">Confirm</string>
     <string name="ok">OK</string>
@@ -45,7 +45,7 @@
     <string name="new_spell_from">Would you like to create a new spell or to import one?</string>
     <string name="newcharacter">New Character</string>
     <string name="cancel">Cancel</string>
-    <string name="createcharacter">Enter the character's name:</string>
+    <string name="createcharacter">Enter the character\'s name:</string>
     <string name="return_main">Return to main menu</string>
     <string name="research">Research</string>
     <string name="cast">Cast</string>
@@ -74,11 +74,11 @@
     <string name="def">Defence</string>
     <string name="atk">Attack</string>
     <string name="spells">Spells</string>
-    <string name="capacities">Abilities</string>
+    <string name="abilities">Abilities</string>
     <string name="expCost">Exp Cost</string>
     <string name="learn">Learn</string>
     <string name="update">Update</string>
-    <string name="uncounscious">You are unconscious…</string>
+    <string name="unconscious">You are unconscious…</string>
     <string name="mAP">%1$d m/AP</string>
     <string name="cape">Cape</string>
     <string name="belt">Belt</string>
@@ -126,7 +126,7 @@
     <string name="resetFile">Reset offline files</string>
     <string name="weightDescription">Weight: %1$s kg</string>
     <string name="ap">AP</string>
-    <string name="regenAP">%1$s%2$d /turn</string>
+    <string name="regenAP">%1$d AP/turn</string>
     <string name="newTurn">New turn</string>
     <string name="trackable">Trackable</string>
     <string name="activeSpells">Active spells</string>
@@ -136,4 +136,7 @@
     <string name="rules">Rules</string>
     <string name="xperturn">%1$s per turn</string>
     <string name="xturn">%1$s turn(s)</string>
+    <string name="notCooldown">Cooldown</string>
+    <string name="notCooldownText">Your spell is not ready yet, wait for %1$d turn(s).</string>
+
 </resources>
