@@ -1,0 +1,218 @@
+{
+  "size_S": {
+    "name": "Size small",
+    "description": "-1 Strength -1 Constitution\n+1 Agility +1 Dodge",
+    "learned": false,
+    "expCost": 0,
+    "bonusValue": [
+      [
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "size_L": {
+    "name": "Size large",
+    "description": "+1 Strength +1 Constitution\n-1 Agility -1 Dodge",
+    "learned": false,
+    "expCost": 0,
+    "bonusValue": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "size_H": {
+    "name": "Size huge",
+    "description": "+2 Strength +2 Constitution\n-2 Agility-2 Dodge",
+    "learned": false,
+    "expCost": 0,
+    "bonusValue": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        -2,
+        0,
+        -2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "Atlantean": {
+    "name": "Atlantean",
+    "description": "The character can breath under water and its swimming speed is equal to its normal speed +2m/AP"
+  },
+  "Alzawahif": {
+    "name": "Alzawahif",
+    "description": "The character skin becomes invisible when it stops moving"
+  },
+  "Isbjorn": {
+    "name": "Isbjorn",
+    "description": "The character heals for 1 HP per turn",
+    "serialNumber": 1
+  },
+  "Raiz": {
+    "name": "Raiz",
+    "description": "The character can communicate with the fauna and the flora"
+  },
+  "Kanshojin": {
+    "name": "Kanshojin",
+    "description": "The character can fly with its normal speed"
+  },
+  "Caniae": {
+    "name": "Caniae",
+    "description": "The character has a very developed sense of smell, allowing him to remember smells perfectly and to trace them. (+3 in checks where odor occurs)"
+  },
+  "Waniama": {
+    "name": "Waniama",
+    "description": "The character has +2m/AP to its normal speed",
+    "bonusValue": [
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "Ukher": {
+    "name": "Ukher",
+    "description": "The character becomes enraged when he is below 50% of his max HP, granting him +1 AP regeneration."
+  },
+  "Undead": {
+    "name": "Undead",
+    "description": "Radiant healing hurt the character but necrotic damage heal it.\nThe character is weak to blunt damage and resistant against piercing damage.\nThe character is immune to all constitution save but it has disadvantage against mental effects saves.\nThe character health is base on its resilience",
+    "serialNumber": 2
+  }
+}

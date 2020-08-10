@@ -1,0 +1,345 @@
+{
+    "Dagger": {
+        "name": "Dagger",
+        "description": "AP : 2\nRange : 1.5m/9m\nDeals 1d4 slashing/piercing damage (19-20:+0)\nRoll 1d20 #ST#/#AT# to touch",
+        "weight": 0.5
+    },
+    "Mace": {
+        "name": "Mace",
+        "description": "AP : 3\nRange : 1.5m\nDeals 1d8 #S# blunt damage\nRoll 1d20 #ST# to touch",
+        "weight": 2.0
+    },
+    "Pistol": {
+        "name": "Pistol",
+        "description": "AP : 3\nRange : 9m\nDeals 1d8 #A# piercing damage\nRoll 1d20 #AT# to touch",
+        "weight": 1.0
+    },
+    "Shield": {
+        "name": "Shield",
+        "description": "AP : 2\nRange : Self\n+1 Ph Dodge for 1 turn",
+        "weight": 3.0
+    },
+    "Sword": {
+        "name": "Sword",
+        "description": "AP : 3\nRange : 1.5m\nDeals 1d6 #S# slashing damage (19-20:+0)\nRoll 1d20 #ST# to touch",
+        "weight": 1.0
+    },
+    "Axe": {
+        "name": "Axe",
+        "description": "AP : 3\nRange : 1.5m\nDeals 1d6 #S# slashing damage (20:+20)\nRoll 1d20 #ST# to touch",
+        "weight": 1.0
+    },
+    "Elemental whip": {
+        "name": "Elemental whip",
+        "description": "AP : 3\nRange : 3m\nDeals 1d6 #I# elem damage\nRoll 1d20 #PT# to touch",
+        "weight": 0.5
+    },
+    "Elemental wand": {
+        "name": "Elemental wand",
+        "description": "AP : 3\nRange : 9m\nDeals 1d8 #I# elem damage\nRoll 1d20 #PT# to touch",
+        "weight": 0.5
+    },
+    "Greathammer": {
+        "name": "Greathammer",
+        "description": "AP : 4\nRange : 1.5m\nDeals 1d12 #S2H# blunt damage\nRoll 1d20 #ST# to touch",
+        "weight": 4.0
+    },
+    "Spear": {
+        "name": "Spear",
+        "description": "AP : 4\nRange : 3m\nDeals 1d10 #S2H# piercing damage\nRoll 1d20 #ST# to touch",
+        "weight": 3.0
+    },
+    "Long bow": {
+        "name": "Long bow",
+        "description": "AP : 4\nRange : 30m\nDeals 1d10 #A# piercing damage\nRoll 1d20 #AT# to touch",
+        "weight": 1.5
+    },
+    "Rifle": {
+        "name": "Rifle",
+        "description": "AP : 4\nRange : 100m\nDeals 1d8 #A# piercing damage\nRoll 1d20 #AT# to touch",
+        "weight": 2.5
+    },
+    "Greatsword": {
+        "name": "Greatsword",
+        "description": "AP : 4\nRange : 1.5m\nDeals 1d10 #S2H# slashing damage (19-20:+0)\nRoll 1d20 #ST# to touch",
+        "weight": 4.0
+    },
+    "Greataxe": {
+        "name": "Greataxe",
+        "description": "AP : 4\nRange : 1.5m\nDeals 1d10 #S2H# slashing damage (20:+20)\nRoll 1d20 #ST# to touch",
+        "weight": 4.0
+    },
+    "Elemental staff": {
+        "name": "Elemental staff",
+        "description": "AP : 4\nRange : 30m\nDeals 1d10 #I# elem damage\nRoll 1d20 #PT# to touch",
+        "weight": 4.0
+    },
+    "Ceremonial armor": {
+        "name": "Ceremonial armor",
+        "description": "+4 resiliance",
+        "bonus": [
+            0,
+            4
+        ],
+        "weight": 2.0
+    },
+    "Steel armor": {
+        "name": "Steel armor",
+        "description": "+3 dodge and +1 resiliance",
+        "bonus": [
+            3,
+            1
+        ],
+        "weight": 10.0
+    },
+    "Fur armor": {
+        "name": "Fur armor",
+        "description": "+3 resiliance and +1 dodge",
+        "bonus": [
+            1,
+            3
+        ],
+        "weight": 5.0
+    },
+    "Leather armor": {
+        "name": "Leather armor",
+        "description": "+2 resiliance and +2 dodge",
+        "bonus": [
+            2,
+            2
+        ],
+        "weight": 7.5
+    },
+    "Plate armor": {
+        "name": "Plate armor",
+        "description": "+4 dodge",
+        "bonus": [
+            4,
+            0
+        ],
+        "weight": 15.0
+    },
+    "Chidomore armor": {
+        "name": "Chidomore armor",
+        "description": "+3 dodge and +2 resiliance",
+        "bonus": [
+            3,
+            2
+        ],
+        "weight": 7.5
+    },
+    "Chitin armor": {
+        "name": "Chitin armor",
+        "description": "+3 resiliance and +2 dodge",
+        "bonus": [
+            2,
+            3
+        ],
+        "weight": 7.5
+    },
+    "Compass (1pp)": {
+        "name": "Compass",
+        "description": "+2 survival on some checks",
+        "weight": 0.25
+    },
+    "Acid vial (15gp)": {
+        "name": "Acid vial",
+        "description": "3 Energy\n9m range\nDeals 1d6 acid damage",
+        "weight": 0.5
+    },
+    "3m chain (3pp)": {
+        "name": "3m Chain",
+        "description": "Resistance = 10\nHP=5\nDC athletics = 25",
+        "weight": 3.0
+    },
+    "Grappling hook (1gp)": {
+        "name": "Grappling hook",
+        "description": "9m long rope with a hook",
+        "weight": 2.0
+    },
+    "Glue (5sp)": {
+        "name": "Glue",
+        "description": "30cm square quantity\nDC athletics = 10 (+5 if surface is upper 1.5m square)",
+        "weight": 0.25
+    },
+    "Tent (1pp)": {
+        "name": "Tent",
+        "description": "Tent for 1 people",
+        "weight": 10.0
+    },
+    "Manacles (15gp)": {
+        "name": "Manacles",
+        "description": "DC athletics = 30\nDC craft = 20",
+        "weight": 1.0
+    },
+    "Empty vial (1gp)": {
+        "name": "Vial",
+        "description": "20cl volume",
+        "weight": 0.05
+    },
+    "Oil flask (1gp)": {
+        "name": "Oil flask",
+        "description": "1,5m square surface",
+        "weight": 0.5
+    },
+    "Crowbar (2gp)": {
+        "name": "Crowbar",
+        "description": "+2 athletics for some checks",
+        "weight": 2.5
+    },
+    "Lock (1pp)": {
+        "name": "Lock",
+        "description": "Resistance = 10\nHP=5\nDC athletics = 25\nDC misdemeanor = 20",
+        "weight": 0.5
+    },
+    "15m rope (1gp)": {
+        "name": "Rope",
+        "description": "Hemp rope",
+        "weight": 5.0
+    },
+    "Earplugs (3cp)": {
+        "name": "Earplugs",
+        "description": "+2 Ph Dodge for some checks",
+        "weight": 0.0
+    },
+    "Paper sheet (4sp)": {
+        "name": "Paper sheet",
+        "description": "",
+        "weight": 0.0
+    },
+    "Surgeon's tools (2pp)": {
+        "name": "Surgeon's tools",
+        "description": "+3 craft for some checks",
+        "weight": 2.5
+    },
+    "Ink vial (8gp)": {
+        "name": "Ink vial",
+        "description": "Blank ink to write on paper",
+        "weight": 0.05
+    },
+    "Lantern (7gp)": {
+        "name": "Lantern",
+        "description": "Provide light up to 6m",
+        "weight": 1.0
+    },
+    "Magnet (5sp)": {
+        "name": "Magnet",
+        "description": "Strength = 3kg",
+        "weight": 0.25
+    },
+    "Shovel (2gp)": {
+        "name": "Shovel",
+        "description": "",
+        "weight": 4.0
+    },
+    "Pickax (3gp)": {
+        "name": "Pickax",
+        "description": "",
+        "weight": 5.0
+    },
+    "Chalk (1cp)": {
+        "name": "Chalk",
+        "description": "",
+        "weight": 0.005
+    },
+    "Cards (2sp)": {
+        "name": "Cards",
+        "description": "",
+        "weight": 0.05
+    },
+    "Salt (1cp)": {
+        "name": "Salt",
+        "description": "20g de sel",
+        "weight": 0.02
+    },
+    "Havenbag": {
+        "name": "Havenbag",
+        "description": "2.5kg bag than can contain 25kg of goods without taking weight",
+        "weight": -22.5
+    },
+    "Alchemist\u2019s kit (75gp)": {
+        "name": "Alchemist\u2019s kit",
+        "description": "Allows to creates alchemical substances and add +1 to craft checks to do so",
+        "weight": 10.0
+    },
+    "Lockpicks": {
+        "name": "Lockpicks",
+        "description": "Allows to lockpick locks",
+        "weight": 0.5
+    },
+    "Minor poison": {
+        "name": "Minor poison",
+        "description": "Add 2d4+2 poison damage to the next attack",
+        "weight": 0.25
+    },
+    "Death poison": {
+        "name": "Death poison",
+        "description": "Ingest\nOnset = 10min\n1/min during 6min -1d4 constitution\nDC 15",
+        "weight": 0.25
+    },
+    "Paralysis poison": {
+        "name": "Paralysis poison",
+        "description": "Add -3m/AP for 2 rounds to the next attack",
+        "weight": 0.25
+    },
+    "Minor health potion": {
+        "name": "Minor health potion",
+        "description": "AP : 2(4)\nRestores 2d4+2 HP",
+        "weight": 0.25
+    },
+    "Minor flux potion": {
+        "name": "Minor flux potion",
+        "description": "AP : 2(4)\nRestores 100 flux",
+        "weight": 0.25
+    },
+    "Energy potion": {
+        "name": "Energy potion",
+        "description": "AP : 2(4)\nGives 4 AP",
+        "weight": 0.25
+    },
+    "Speed potion": {
+        "name": "Speed potion",
+        "description": "AP : 2(4)\nGives +3m/AP for 2 rounds",
+        "weight": 0.25
+    },
+    "Catstraw": {
+        "name": "Catstraw",
+        "description": "AP : 3(6)\nRemoves desadvantage to low light perception checks for 3 hours",
+        "weight": 0.25
+    },
+    "Acid vial": {
+        "name": "Acid vial",
+        "description": "AP : 2\nRange : 9m\nDeals 1d6 acid damage in 1.5m radius\nDodge save DC 12",
+        "weight": 0.25
+    },
+    "Atlantean fire": {
+        "name": "Atlantean fire",
+        "description": "AP : 2\nRange : 9m\nDeals 1d6 fire damage in 1.5m radius\nDodge save DC 12",
+        "weight": 0.25
+    },
+    "Flash grenade": {
+        "name": "Flash grenade",
+        "description": "AP : 2\nRange : 9m\nGives -2 dodge for 2 rounds in 1.5m radius\nConstitution save DC 12",
+        "weight": 0.25
+    },
+    "Thunder stone": {
+        "name": "Thunder stone",
+        "description": "AP : 2\nRange : 9m\nGives -2 resilience for 2 rounds in 1.5m radius\nConstitution save DC 12",
+        "weight": 0.25
+    },
+    "Smoke grenade": {
+        "name": "Smoke grenade",
+        "description": "AP : 2\nRange : 9m\nCreates a 3m side cube of smoke for 3 turns",
+        "weight": 0.25
+    },
+    "Antidote": {
+        "name": "Antidote",
+        "description": "AP : 2(4)\nGives advantage againts disease saves for 3 hours",
+        "weight": 0.25
+    },
+    "Adventurer's kit (10gp)": {
+        "name": "Adventurer's kit",
+        "description": "This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, a needle, a whistle, 1m of string, a whetstone, a soap and a waterskin.",
+        "weight": 4.0
+    }
+}

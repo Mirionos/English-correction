@@ -1,0 +1,122 @@
+{
+  "Distracted": {
+    "name": "Distracted",
+    "description": "DD 10\nThe character is always last in turn order."
+  },
+  "Latency": {
+    "name": "Latency",
+    "description": "DD 10\nThe character cannot use reaction."
+  },
+  "Tired": {
+    "name": "Tired",
+    "description": "DD 10\nThe character cannot keep AP from one turn to another."
+  },
+  "Leak": {
+    "name": "Leak",
+    "description": "DD 10\nThe character loses 10% of his flux."
+  },
+  "Paralyze": {
+    "name": "Paralyze",
+    "description": "DD 15\nThe character movement is decreased by 2m/AP.",
+    "bonusValue": [
+      [0, -2],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0]
+    ]
+  },
+  "Dazed": {
+    "name": "Dazed",
+    "description": "DD 15\nThe character max flux is decreased by 20%."
+  },
+  "Exhausted": {
+    "name": "Exhausted",
+    "description": "DD 15\nIf the character uses more than 3 AP in one turn, he loses 1 HP."
+  },
+  "Disability strength": {
+    "name": "Disability strength",
+    "description": "DD 15\nThe character strength is decreased by 2.",
+    "bonusValue": [
+      [0, 0],
+      [-2, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0]
+    ]
+  },
+  "Disability agility": {
+    "name": "Disability agility",
+    "description": "DD 15\nThe character agility is decreased by 2.",
+    "bonusValue": [
+      [0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [-2, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0]
+    ]
+  },
+  "Disability intelligence": {
+    "name": "Disability intelligence",
+    "description": "DD 15\nThe character intelligence is decreased by 2.",
+    "bonusValue": [
+      [0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [-2, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0]
+    ]
+  },
+  "Disability willingness": {
+    "name": "Disability willingness",
+    "description": "DD 15\nThe character willingness is decreased by 2.",
+    "bonusValue": [
+      [0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [-2, 0, 0, 0, 0],
+      [0, 0]
+    ]
+  },
+  "Feeble": {
+    "name": "Feeble",
+    "description": "DD 15\nThe character max HP is decreased by 20%."
+  },
+  "Confused": {
+    "name": "Confused",
+    "description": "DD 20\nThe character AP is decreased by 2."
+  },
+  "Wounded": {
+    "name": "Wounded",
+    "description": "DD 20\nThe character combat values are decreased by 2.",
+    "bonusValue": [
+      [0, 0],
+      [0, -2, 0, 0, 0, 0],
+      [0, -2, 0, 0, 0, 0],
+      [0, -2, 0, 0, 0],
+      [0, -2, 0, 0, 0],
+      [0, 0]
+    ]
+  },
+  "Unconscious": {
+    "name": "Unconscious",
+    "description": "DD 20\nThe character falls into a coma."
+  },
+  "Mutilated": {
+    "name": "Mutilated",
+    "description": "DD 20\nThe character loses a limb."
+  },
+  "Bleeding": {
+    "name": "Bleeding",
+    "description": "DD 25\nThe character loses 1 HP per turn."
+  },
+  "Agony": {
+    "name": "Agony",
+    "description": "DD 25\nThe character died at the end of the next turn."
+  }
+}
