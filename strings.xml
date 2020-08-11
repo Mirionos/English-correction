@@ -25,17 +25,17 @@
     <string name="description">Description</string>
     <string name="amount">Amount</string>
     <string name="notNumber">This is not a number.</string>
-    <string name="upValue">Would you like to increase this Value? (Cost: %1$d Exp)</string>
+    <string name="upValue">Would you like to increment this value? \n(Cost: %1$d Exp)</string>
     <string name="notEnoughExp">You don\'t have enough Exp.</string>
-    <string name="downValue">Would you like to decrease this value? (Gain: %1$d Exp)</string>
-    <string name="notDown">You can\'t decrease this value.</string>
+    <string name="downValue">Would you like to decrement this value? \n(Gain: %1$d Exp)</string>
+    <string name="notDown">You can\'t decrement this value.</string>
     <string name="sprSpell">Would you like to delete this spell?</string>
     <string name="sprTalent">Would you like to delete this talent?</string>
     <string name="sprEffect">Would you like to delete this effect?</string>
     <string name="sprThis">Would you like to delete this?</string>
     <string name="numEffect">Number of effects</string>
-    <string name="upMovement">Would you like to increase your Movement by 1m/AP? (Cost: %1$d Exp)</string>
-    <string name="downMovementValue">Would you like to decrease your Movement by 1m/AP? (Cost: %1$d Exp)</string>
+    <string name="upMovement">Would you like to increment your Movement by 1m/AP? \n(Cost: %1$d Exp)</string>
+    <string name="downMovementValue">Would you like to decrement your Movement by 1m/AP? \n(Cost: %1$d Exp)</string>
     <string name="new_dysplay">New</string>
     <string name="new_character_from">Would you like to create a new character or to import one?</string>
     <string name="import_display">Import</string>
@@ -137,6 +137,6 @@
     <string name="xperturn">%1$s per turn</string>
     <string name="xturn">%1$s turn(s)</string>
     <string name="notCooldown">Cooldown</string>
-    <string name="notCooldownText">Your spell is not ready yet, wait for %1$d turn(s).</string>
+    <string name="notCooldownText">Your spell is not ready yet. Remaining turns until castable again: %1$d.</string>
 
 </resources>
