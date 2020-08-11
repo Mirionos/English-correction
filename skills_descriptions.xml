@@ -24,11 +24,7 @@
         WIP
     </string>
 
-    <string name="intimidationDescription">
-        WIP
-    </string>
-
-    <string name="survivalDescription">
+    <string name="coercionDescription">
         WIP
     </string>
 
@@ -52,10 +48,6 @@
         WIP
     </string>
 
-    <string name="initiativeDescription">
-        WIP
-    </string>
-
     <string name="intelligenceDescription">
         WIP
     </string>
@@ -72,11 +64,11 @@
         WIP
     </string>
 
-    <string name="craftDescription">
+    <string name="techniqueDescription">
         WIP
     </string>
 
-    <string name="willingnessDescription">
+    <string name="wisdomDescription">
         WIP
     </string>
 
@@ -92,7 +84,7 @@
         WIP
     </string>
 
-    <string name="bluffDescription">
+    <string name="cunningDescription">
         WIP
     </string>
 </resources>

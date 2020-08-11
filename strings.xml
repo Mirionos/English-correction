@@ -97,7 +97,8 @@
     <string name="resetValue">Reset value</string>
     <string name="updateCurrFlux">Update current Flux</string>
     <string name="updateCurrAP">Update current AP</string>
-    <string name="updateCurrAPRegen">Update current AP Regeneration</string>
+    <string name="updateCurrAPRegen">Update current AP regeneration</string>
+    <string name="updateCurrAPKept">Update current AP storage</string>
     <string name="updateMovement">Update Movement</string>
     <string name="physicalDescription">Physical description</string>
     <string name="coins">Coins</string>
@@ -126,7 +127,7 @@
     <string name="resetFile">Reset offline files</string>
     <string name="weightDescription">Weight: %1$s kg</string>
     <string name="ap">AP</string>
-    <string name="regenAP">%1$d AP/turn</string>
+    <string name="regenAP">%1$s%2$d AP/turn</string>
     <string name="newTurn">New turn</string>
     <string name="trackable">Trackable</string>
     <string name="activeSpells">Active spells</string>
@@ -138,5 +139,8 @@
     <string name="xturn">%1$s turn(s)</string>
     <string name="notCooldown">Cooldown</string>
     <string name="notCooldownText">Your spell is not ready yet. Remaining turns until castable again: %1$d.</string>
+    <string name="APstorage">AP storage</string>
+    <string name="APregen">AP regen</string>
+    <string name="version">Version %1$s</string>
 
 </resources>

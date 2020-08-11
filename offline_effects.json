@@ -9,7 +9,15 @@
   },
   "Tired": {
     "name": "Tired",
-    "description": "DD 10\nThe character cannot conserve their remaining AP from their next turn."
+    "description": "DD 10\nThe character cannot conserve their remaining AP from their next turn.",
+    "bonusValue": [
+      [0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, -2]
+    ]
   },
   "Leak": {
     "name": "Leak",
@@ -20,11 +28,11 @@
     "description": "DD 15\nThe character's Movement is decreased by 2 m/AP.",
     "bonusValue": [
       [0, -2],
-      [0, 0, 0, 0, 0, 0],
-      [0, 0, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
-      [0, 0]
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0]
     ]
   },
   "Dazed": {
@@ -40,11 +48,11 @@
     "description": "DD 15\nThe character's Strength is decreased by 2.",
     "bonusValue": [
       [0, 0],
-      [-2, 0, 0, 0, 0, 0],
-      [0, 0, 0, 0, 0, 0],
+      [-2, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
-      [0, 0]
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0]
     ]
   },
   "Disability agility": {
@@ -52,11 +60,11 @@
     "description": "DD 15\nThe character Agility is decreased by 2.",
     "bonusValue": [
       [0, 0],
-      [0, 0, 0, 0, 0, 0],
-      [-2, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [-2, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
-      [0, 0]
+      [0, 0, 0, 0]
     ]
   },
   "Disability intelligence": {
@@ -64,23 +72,23 @@
     "description": "DD 15\nThe character Intelligence is decreased by 2.",
     "bonusValue": [
       [0, 0],
-      [0, 0, 0, 0, 0, 0],
-      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
       [-2, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
-      [0, 0]
+      [0, 0, 0, 0]
     ]
   },
-  "Disability willingness": {
-    "name": "Disability willingness",
-    "description": "DD 15\nThe character Willingness is decreased by 2.",
+  "Disability wisdom": {
+    "name": "Disability wisdom",
+    "description": "DD 15\nThe character Wisdom is decreased by 2.",
     "bonusValue": [
       [0, 0],
-      [0, 0, 0, 0, 0, 0],
-      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
       [0, 0, 0, 0, 0],
       [-2, 0, 0, 0, 0],
-      [0, 0]
+      [0, 0, 0, 0]
     ]
   },
   "Feeble": {
@@ -96,11 +104,11 @@
     "description": "DD 20\nThe character's combat values are decreased by 2.",
     "bonusValue": [
       [0, 0],
-      [0, -2, 0, 0, 0, 0],
-      [0, -2, 0, 0, 0, 0],
       [0, -2, 0, 0, 0],
       [0, -2, 0, 0, 0],
-      [0, 0]
+      [0, -2, 0, 0, 0],
+      [0, -2, 0, 0, 0],
+      [0, 0, 0, 0]
     ]
   },
   "Unconscious": {

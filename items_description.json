@@ -2,77 +2,107 @@
     "Dagger": {
         "name": "Dagger",
         "description": "AP: 2\nRange: 1.5m/9m\nDeals 1d4 slashing/piercing damage (19-20:+0).\nRoll 1d20 #ST#/#AT# to touch.",
-        "weight": 0.5
+        "weight": 0.5,
+        "type": "weapon1",
+        "AP": 2
     },
     "Mace": {
         "name": "Mace",
-        "description": "AP: 3\nRange: 1.5m\nDeals 1d8 #S# blunt damag.e\nRoll 1d20 #ST# to touch.",
-        "weight": 2.0
+        "description": "AP: 3\nRange: 1.5m\nDeals 1d8 #S# blunt damage\nRoll 1d20 #ST# to touch.",
+        "weight": 2.0,
+        "type": "weapon1",
+        "AP": 3
     },
     "Pistol": {
         "name": "Pistol",
         "description": "AP: 3\nRange: 9m\nDeals 1d8 #A# piercing damage.\nRoll 1d20 #AT# to touch.",
-        "weight": 1.0
+        "weight": 1.0,
+        "type": "weapon1",
+        "AP": 3
     },
     "Shield": {
         "name": "Shield",
         "description": "AP: 2\nRange: Self\n+1 Dodge for 1 turn.",
-        "weight": 3.0
+        "weight": 3.0,
+        "type": "weapon1",
+        "AP": 3
     },
     "Sword": {
         "name": "Sword",
         "description": "AP: 3\nRange: 1.5m\nDeals 1d6 #S# slashing damage (19-20:+0).\nRoll 1d20 #ST# to touch.",
-        "weight": 1.5
+        "weight": 1.5,
+        "type": "weapon1",
+        "AP": 3
     },
     "Axe": {
         "name": "Axe",
         "description": "AP: 3\nRange: 1.5m\nDeals 1d6 #S# slashing damage (20:+20).\nRoll 1d20 #ST# to touch.",
-        "weight": 1.0
+        "weight": 1.0,
+        "type": "weapon1",
+        "AP": 3
     },
     "Elemental whip": {
         "name": "Elemental whip",
         "description": "AP: 3\nRange: 3m\nDeals 1d6 #I# elemental damage.\nRoll 1d20 #PT# to touch.",
-        "weight": 0.5
+        "weight": 0.5,
+        "type": "weapon1",
+        "AP": 3
     },
     "Elemental wand": {
         "name": "Elemental wand",
         "description": "AP: 3\nRange: 9m\nDeals 1d8 #I# elemental damage.\nRoll 1d20 #PT# to touch.",
-        "weight": 0.5
+        "weight": 0.5,
+        "type": "weapon1",
+        "AP": 3
     },
     "Greathammer": {
         "name": "Greathammer",
         "description": "AP: 4\nRange: 1.5m\nDeals 1d12 #S2H# blunt damage.\nRoll 1d20 #ST# to touch.",
-        "weight": 4.0
+        "weight": 4.0,
+        "type": "weapon2",
+        "AP": 4
     },
     "Spear": {
         "name": "Spear",
         "description": "AP: 4\nRange: 3m\nDeals 1d10 #S2H# piercing damage.\nRoll 1d20 #ST# to touch.",
-        "weight": 3.0
+        "weight": 3.0,
+        "type": "weapon2",
+        "AP": 4
     },
     "Long bow": {
         "name": "Long bow",
         "description": "AP: 4\nRange: 30m\nDeals 1d10 #A# piercing damage.\nRoll 1d20 #AT# to touch.",
-        "weight": 1.5
+        "weight": 1.5,
+        "type": "weapon2",
+        "AP": 4
     },
     "Rifle": {
         "name": "Rifle",
         "description": "AP: 4\nRange: 100m\nDeals 1d8 #A# piercing damage.\nRoll 1d20 #AT# to touch.",
-        "weight": 2.5
+        "weight": 2.5,
+        "type": "weapon2",
+        "AP": 4
     },
     "Greatsword": {
         "name": "Greatsword",
         "description": "AP: 4\nRange: 1.5m\nDeals 1d10 #S2H# slashing damage (19-20:+0).\nRoll 1d20 #ST# to touch.",
-        "weight": 4.0
+        "weight": 4.0,
+        "type": "weapon2",
+        "AP": 4
     },
     "Greataxe": {
         "name": "Greataxe",
         "description": "AP: 4\nRange: 1.5m\nDeals 1d10 #S2H# slashing damage (20:+20).\nRoll 1d20 #ST# to touch.",
-        "weight": 4.0
+        "weight": 4.0,
+        "type": "weapon2",
+        "AP": 4
     },
     "Elemental staff": {
         "name": "Elemental staff",
         "description": "AP: 4\nRange: 30m\nDeals 1d10 #I# elemental damage\nRoll 1d20 #PT# to touch",
-        "weight": 4.0
+        "weight": 4.0,
+        "type": "weapon2",
+        "AP": 4
     },
     "Ceremonial armor": {
         "name": "Ceremonial armor",
@@ -81,7 +111,8 @@
             0,
             4
         ],
-        "weight": 2.0
+        "weight": 2.0,
+        "type": "armor"
     },
     "Steel armor": {
         "name": "Steel armor",
@@ -90,7 +121,8 @@
             3,
             1
         ],
-        "weight": 10.0
+        "weight": 10.0,
+        "type": "armor"
     },
     "Fur armor": {
         "name": "Fur armor",
@@ -99,7 +131,8 @@
             1,
             3
         ],
-        "weight": 5.0
+        "weight": 5.0,
+        "type": "armor"
     },
     "Leather armor": {
         "name": "Leather armor",
@@ -108,7 +141,8 @@
             2,
             2
         ],
-        "weight": 7.5
+        "weight": 7.5,
+        "type": "armor"
     },
     "Plate armor": {
         "name": "Plate armor",
@@ -117,7 +151,8 @@
             4,
             0
         ],
-        "weight": 15.0
+        "weight": 15.0,
+        "type": "armor"
     },
     "Chidomore armor": {
         "name": "Chidomore armor",
@@ -126,7 +161,8 @@
             3,
             2
         ],
-        "weight": 7.5
+        "weight": 7.5,
+        "type": "armor"
     },
     "Chitin armor": {
         "name": "Chitin armor",
@@ -135,7 +171,8 @@
             2,
             3
         ],
-        "weight": 7.5
+        "weight": 7.5,
+        "type": "armor"
     },
     "Compass (1pp)": {
         "name": "Compass",
@@ -159,7 +196,7 @@
     },
     "Glue (5sp)": {
         "name": "Glue",
-        "description": "Capacity: 30cm²\nAthletics: DC 10 (15 if glued surface > 1.5m²)",
+        "description": "Capacity: 30sqcm\nAthletics: DC 10 (15 if glued surface > 1.5sqm)",
         "weight": 0.25
     },
     "Tent (1pp)": {
@@ -179,7 +216,7 @@
     },
     "Oil flask (1gp)": {
         "name": "Oil flask",
-        "description": "A flask that contains oil. Its oil capacity is equivalent to 1.5m² once spilled on the ground.",
+        "description": "A flask that contains oil. Its oil capacity is equivalent to 1.5sqm once spilled on the ground.",
         "weight": 0.5
     },
     "Crowbar (2gp)": {
@@ -204,7 +241,7 @@
     },
     "Paper sheet (4sp)": {
         "name": "Paper sheet",
-        "description": "Its paper. What did you expect?",
+        "description": "It’s paper. What did you expect?",
         "weight": 0.001
     },
     "First-aid kit (2gp)": {
@@ -228,8 +265,8 @@
         "weight": 0.25
     },
     "Shovel (2gp)": {
-        "name": "Regular Shovel. Perfect for a Knight wannabe, just don't hop on it. No really, don't.",
-        "description": "",
+        "name": "Shovel",
+        "description": "Regular Shovel. Perfect for a Knight wannabe, just don't hop on it. No really, don't.",
         "weight": 4.0
     },
     "Pickaxe (3gp)": {
@@ -269,17 +306,17 @@
     },
     "Minor poison": {
       "name": "Minor poison",
-      "description": "Applies the following effect on the character's weapon for their next attack: \n\"2d4+2 acid damage - DC 12\".",
+      "description": "Applies the following effect on the character's weapon for their next attack: \n\n2d4+2 acid damage\nConstitution save: DC 12",
       "weight": 0.25
     },
     "Death poison": {
         "name": "Death poison",
-        "description": "Only enabled if target orally ingests the poison.\nEffect onset = 10min\nDuration: 6min\nEach minute: -1d4 Constitution\nDC 15",
+        "description": "Only enabled if target orally ingests the poison.\nEffect onset = 10min\nDuration: 6min\nEach minute: -1d4 Constitution\nConstitution save: DC 15",
         "weight": 0.25
     },
     "Paralysis poison": {
         "name": "Paralysis poison",
-        "description": "Applies the following effect on the character's weapon for their next attack: \n\"-3m/AP for 2 rounds - DC 15\".",
+        "description": "Applies the following effect on the character's weapon for their next attack: \n\n-3m/AP for 2 rounds \nConstitution save: DC 15",
         "weight": 0.25
     },
     "Minor health potion": {

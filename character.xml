@@ -4,7 +4,7 @@
     <string name="strTouch">Str touch</string>
     <string name="constitution">Constitution</string>
     <string name="athletics">Athletics</string>
-    <string name="intimidation">Intimidation</string>
+    <string name="coercion">Coercion</string>
     <string name="survival">Survival</string>
     <string name="agility">Agility</string>
     <string name="agiTouch">Agi touch</string>
@@ -16,12 +16,12 @@
     <string name="power">Power</string>
     <string name="knowledge">Knowledge</string>
     <string name="diplomacy">Diplomacy</string>
-    <string name="craft">Craft</string>
-    <string name="willingness">Willingness</string>
+    <string name="technique">Technique</string>
+    <string name="wisdom">Wisdom</string>
     <string name="resilience">Resilience</string>
     <string name="psychology">Psychology</string>
     <string name="perception">Perception</string>
-    <string name="bluff">Bluff</string>
+    <string name="cunning">Cunning</string>
 
     <string name="name">Name</string>
     <string name="race">Race</string>

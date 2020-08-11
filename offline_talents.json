@@ -5,45 +5,12 @@
     "learned": false,
     "expCost": 0,
     "bonusValue": [
-      [
-        0,
-        0
-      ],
-      [
-        -1,
-        0,
-        -1,
-        0,
-        0,
-        0
-      ],
-      [
-        1,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0
-      ]
-    ]
+      [0, 0],
+      [-1, 0, -1, 0, 0],
+      [1, 0, 1, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0]]
   },
   "size_L": {
     "name": "Size: large",
@@ -51,45 +18,12 @@
     "learned": false,
     "expCost": 0,
     "bonusValue": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      [
-        -1,
-        0,
-        -1,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0
-      ]
-    ]
+      [0, 0],
+      [1, 0, 1, 0, 0],
+      [-1, 0, -1, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0]]
   },
   "size_H": {
     "name": "Size: Huge",
@@ -97,45 +31,12 @@
     "learned": false,
     "expCost": 0,
     "bonusValue": [
-      [
-        0,
-        0
-      ],
-      [
-        2,
-        0,
-        2,
-        0,
-        0,
-        0
-      ],
-      [
-        -2,
-        0,
-        -2,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0
-      ]
-    ]
+      [0, 0],
+      [2, 0, 2, 0, 0],
+      [-1, 0, -1, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0]]
   },
   "Atlantean": {
     "name": "Atlantean",
@@ -143,7 +44,7 @@
   },
   "Alzawahif": {
     "name": "Alzawahif",
-    "description": "The character becomes invisible when they stops moving. +20 in Misdemeanor checks to hide."
+    "description": "The character becomes invisible when they stops moving. +20 in Misdemeanor checks to hide in that case."
   },
   "Isbjorn": {
     "name": "Isbjorn",
@@ -166,49 +67,17 @@
     "name": "Waniama",
     "description": "The character has +2 m/AP to its Movement.",
     "bonusValue": [
-      [
-        0,
-        2
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      [
-        0,
-        0
-      ]
-    ]
+      [0, 2],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0]]
   },
   "Ukher": {
     "name": "Ukher",
-    "description": "The character becomes enraged when below 50% max HP, granting him +1 AP regeneration."
+    "description": "The character becomes enraged when below 50% max HP, granting him +1 AP regeneration.",
+    "serialNumber": 3
   },
   "Undead": {
     "name": "Undead",
